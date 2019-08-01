@@ -1,2 +1,2 @@
 # hello-world
-Just another Developper who test Github
+I'm glad to test GitHub
